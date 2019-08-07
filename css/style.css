@@ -1,0 +1,15 @@
+html,
+body,
+header,
+#intro {
+	height: 100%;
+}
+
+#intro {
+	/*background: url(https://static.pexels.com/photos/462162/pexels-photo-462162.jpeg) no-repeat center center fixed; */
+	background: url(https://cdn1.imggmi.com/uploads/2019/7/20/02b1ab9676eda7ffb68c2632a62e4545-full.jpg) no-repeat center center fixed;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+}
