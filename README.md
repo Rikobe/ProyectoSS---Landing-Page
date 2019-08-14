@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Landing page
 
 Landing page presentation for my upcoming portfolio
@@ -24,3 +25,7 @@ In the css and js folders, Bootstrap and MDBootstrap are in minified version but
 
 ### Good to know
 You can see a final render of this landing page [here](https://oreliask.github.io/MDBootstrap-Landing-page/index.html)
+=======
+# ProyectoSS---Landing-Page
+Proyecto de servicio social - Plantilla OreliaSK
+>>>>>>> f9b9e3fd0550c829c4c037d97c9f5f2fe0b14e7b
